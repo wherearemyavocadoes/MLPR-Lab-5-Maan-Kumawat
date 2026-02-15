@@ -5,7 +5,6 @@
 **Course:** Machine Learning and Pattern Recognition  
 **Semester:** Spring 2026  
 
----
 
 ## Overview
 
@@ -13,7 +12,6 @@ This lab is about working with distance-based methods and images. We have to det
 
 This lab is about understanding distance-based methods and their application to a classification problem.
 
----
 
 ## Aim
 
@@ -23,7 +21,6 @@ This lab is about understanding distance-based methods and their application to 
 - Classify a template image using one of the learned clusters.
 - Display the clusters learned by the algorithm.
 
----
 
 ## Methodology
 
@@ -53,7 +50,6 @@ The template image is converted to HSV color space and features are extracted. T
 
 <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/22305344-2fcf-4646-ae92-70bf909b7520" />
 
----
 
 ## Distance Metrics Discussed
 
@@ -65,7 +61,6 @@ The template image is converted to HSV color space and features are extracted. T
 - Cosine Distance  
 - Hamming Distance  
 
----
 
 ## Bias-Variance in KNN
 
@@ -74,24 +69,10 @@ The template image is converted to HSV color space and features are extracted. T
 
 Cross-validation can be employed to determine an optimal K to trade off between bias and variance.
 
----
-
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/f77326e8-63d0-4f8c-aa5f-95b3fe3371dd" />
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/32fa6334-10fc-4df5-ad96-7d2305221c15" />
-
 
 
 ## Conclusion
 
 In this lab, it is shown that distance-based methods can be used to cluster and classify images. The concepts covered include feature extraction, clustering, and evaluation.
-
----
-
-## Tools Used
-
-- Python  
-- OpenCV  
-- NumPy  
-- Matplotlib  
-- Scikit-learn
-
